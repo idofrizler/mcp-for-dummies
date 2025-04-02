@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+server.py
+mcp_101_detect_colors.egg-info/PKG-INFO
+mcp_101_detect_colors.egg-info/SOURCES.txt
+mcp_101_detect_colors.egg-info/dependency_links.txt
+mcp_101_detect_colors.egg-info/requires.txt
+mcp_101_detect_colors.egg-info/top_level.txt
