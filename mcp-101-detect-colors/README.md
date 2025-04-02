@@ -1,6 +1,6 @@
 # MCP 101 - AI Agent Sees Colors
 
-This example demonstrates how to create an MCP tool that analyzes images and determines their dominant color. The tool can identify basic colors (red, blue, green, yellow) or return a hex color code for other colors.
+This example demonstrates how to create an MCP tool that analyzes images and determines their dominant color. The tool can identify basic colors (red, blue, green, yellow, ...).
 
 ## Setup Steps
 
@@ -14,6 +14,9 @@ cd /path/to/mcp-for-dummies
 
 # Create a new virtual environment
 uv venv
+
+source .venv/bin/activate # macOS/Linux
+.venv\Scripts\activate # Windows
 
 # Install the package in editable mode with dev dependencies
 uv pip install -e .
